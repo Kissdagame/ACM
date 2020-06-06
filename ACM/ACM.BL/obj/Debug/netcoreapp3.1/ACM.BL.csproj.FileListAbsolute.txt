@@ -1,0 +1,12 @@
+D:\C# programs\ACM\ACM\ACM.BL\bin\Debug\netcoreapp3.1\ACM.BL.deps.json
+D:\C# programs\ACM\ACM\ACM.BL\bin\Debug\netcoreapp3.1\ACM.BL.dll
+D:\C# programs\ACM\ACM\ACM.BL\bin\Debug\netcoreapp3.1\ACM.BL.pdb
+D:\C# programs\ACM\ACM\ACM.BL\obj\Debug\netcoreapp3.1\ACM.BL.csprojAssemblyReference.cache
+D:\C# programs\ACM\ACM\ACM.BL\obj\Debug\netcoreapp3.1\ACM.BL.AssemblyInfoInputs.cache
+D:\C# programs\ACM\ACM\ACM.BL\obj\Debug\netcoreapp3.1\ACM.BL.AssemblyInfo.cs
+D:\C# programs\ACM\ACM\ACM.BL\obj\Debug\netcoreapp3.1\ACM.BL.csproj.CoreCompileInputs.cache
+D:\C# programs\ACM\ACM\ACM.BL\obj\Debug\netcoreapp3.1\ACM.BL.dll
+D:\C# programs\ACM\ACM\ACM.BL\obj\Debug\netcoreapp3.1\ACM.BL.pdb
+D:\C# programs\ACM\ACM\ACM.BL\bin\Debug\netcoreapp3.1\Acme.Common.dll
+D:\C# programs\ACM\ACM\ACM.BL\bin\Debug\netcoreapp3.1\Acme.Common.pdb
+D:\C# programs\ACM\ACM\ACM.BL\obj\Debug\netcoreapp3.1\ACM.BL.csproj.CopyComplete

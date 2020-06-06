@@ -1,0 +1,9 @@
+D:\C# programs\ACM\ACM\Acme.Common\bin\Debug\netcoreapp3.1\Acme.Common.deps.json
+D:\C# programs\ACM\ACM\Acme.Common\bin\Debug\netcoreapp3.1\Acme.Common.dll
+D:\C# programs\ACM\ACM\Acme.Common\bin\Debug\netcoreapp3.1\Acme.Common.pdb
+D:\C# programs\ACM\ACM\Acme.Common\obj\Debug\netcoreapp3.1\Acme.Common.csprojAssemblyReference.cache
+D:\C# programs\ACM\ACM\Acme.Common\obj\Debug\netcoreapp3.1\Acme.Common.AssemblyInfoInputs.cache
+D:\C# programs\ACM\ACM\Acme.Common\obj\Debug\netcoreapp3.1\Acme.Common.AssemblyInfo.cs
+D:\C# programs\ACM\ACM\Acme.Common\obj\Debug\netcoreapp3.1\Acme.Common.csproj.CoreCompileInputs.cache
+D:\C# programs\ACM\ACM\Acme.Common\obj\Debug\netcoreapp3.1\Acme.Common.dll
+D:\C# programs\ACM\ACM\Acme.Common\obj\Debug\netcoreapp3.1\Acme.Common.pdb
